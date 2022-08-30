@@ -50,6 +50,9 @@
 - Install Apollo client https://www.npmjs.com/package/@apollo/client
 - ```yarn add @apollo/client``` and ```yarn add graphql```
 
+1:04:51 Hosting our DAPP
+
+
 
 
 
